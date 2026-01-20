@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShivPanjwani
 - 👀 I’m interested in building a voice enabled Agile deployment software company
-- 🌱 I’m currently learning entrepreneurship and how to apply Artificial Intelligence to build new technologies.
+- 🌱 I’m currently learning entrepreneurship and Artificial Intelligence at Carnegie Mellon. 
 - 💞️ I’m looking to collaborate on Agilow.ai
-- 📫 How to reach me: shivpanjwani@gmail.com
+- 📫 How to reach me: shiv@agilow.ai
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have skydived solo 28 times
 
